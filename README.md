@@ -22,6 +22,8 @@ It turns out that counting the number of letters, words, and sentences in a pass
 
 ## Getting Started
 
+**Be sure you are working in the GitHub Classroom. To confirm, on startup, you should see a single `$` in the terminal. If you are unsure, stop by during office hours.** 
+
 Before you begin coding, create a folder for this assignment and navigate into it:
 ```bash
 mkdir readability
@@ -284,6 +286,5 @@ The test suite will run all test cases and show you which ones pass and which on
 
 ## Submission
 
-After all tests pass, put your name in a comment at the top of the file and print your code using `render50`. See homework 06 for instructions.
+Ensure all tests pass before the due date and submit your GitHub username with the homework. Your submission will be reviewed through GitHub Classroom.
 
-Attach the printed code to your homework submission.
